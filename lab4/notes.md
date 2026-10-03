@@ -14,4 +14,19 @@ Answer 7 After the commit, Git printed Lab work so far and showed that 5 files c
 
 Answer 8  The first seven characters, 9494405, are called the short commit hash. They are used as a unique ID to identify a particular commit in Git history.
 
-Answer 9 
+Answer 9 The four steps of the Git loop are:
+
+1. **Edit/Modify** the files.
+2. **Check the status** using `git status`.
+3. **Stage** the changes using `git add`.
+4. **Commit** the changes using `git commit`.
+
+Answer 10 README.md has a special name and is kept in the main folder because GitHub automatically displays it on the repository's front page. This makes it easy for anyone visiting the project to understand what the project is about and what it contains.
+
+Answer 11 gh auth login logged me into my GitHub account and saved an authentication token on my computer. This token lets GitHub verify my identity when I push, so I don't have to enter my password every time.
+
+Answer 12 README.md is shown on the front page of the GitHub repository. GitHub automatically displays the README.md file from the main folder because it is used as an introduction to the project.
+
+Answer 13 No, pushing did not change my local commit history. The same three commits are still there. It only uploaded my local commits to GitHub and connected origin/master to my local master branch.
+
+Answer 14 A private repository exists on GitHub and contains all the files and commit history, but only people who have permission can access it. A repository that doesn't exist on GitHub has no files, commits, or remote repository stored there.
