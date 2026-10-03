@@ -9,3 +9,9 @@ Answer 4 Compared to the previous git status, the .venv/ folder has disappeared 
 Answer 5 Yes, .gitignore should be committed. It contains the rules for which files Git should ignore, so committing it makes sure everyone working on the project follows the same rules.
 
 Answer 6 README.md moved from Untracked files to Changes to be committed. In the three-places model, this means README.md was moved from the Working Directory to the Staging Area by using git add.
+
+Answer 7 After the commit, Git printed Lab work so far and showed that 5 files changed, with 175 insertions. It also listed the five files that were created in the commit.
+
+Answer 8  The first seven characters, 9494405, are called the short commit hash. They are used as a unique ID to identify a particular commit in Git history.
+
+Answer 9 
